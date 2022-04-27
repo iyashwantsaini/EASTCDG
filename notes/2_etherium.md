@@ -1,10 +1,12 @@
 ## Etherium
 
-• "White paper" discusses need for
-programmatic control over transactions
+• White paper discusses need for
+programmatic control over transactions.
+
 • Wanted to enable creation of
 'decentralized autonomous corporations'
 (DAC)
+
 • Introduces the idea of 'Smart Contracts'
 as an entity that can send and receive
 currency, beyond just humans
@@ -19,7 +21,11 @@ currency, beyond just humans
 - Each node can contain a full copy of the blo@kchain
 - The 'blockchain' is a database that stores a record of every transaction that has ever taken place
 
-## Interaction 
+## Interaction
 
 - for developers - web3.js is a javascript library that allows you to interact with the blockchain
-- for customers - Metamask, MistBrowser 
+- for customers - Metamask, MistBrowser
+
+## Wei
+
+Wei is a unit of ether. (eg. paisa is a unit of rupee)

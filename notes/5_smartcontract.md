@@ -4,12 +4,11 @@ Account controlled by code, not by a human.
 
 ## Contract Account
 
-| Contract Account |
-| ---------------- | ----------------------------------------- |
-| Field            | Description                               |
-| balance          | Amount of tokens in the account           |
-| storage          | Data storage for the contract eg. strings |
-| code             | Raw machine code for the contract         |
+| Field   | Description                               |
+| ------- | ----------------------------------------- |
+| balance | Amount of tokens in the account           |
+| storage | Data storage for the contract eg. strings |
+| code    | Raw machine code for the contract         |
 
 General accounts can be accessed via any etherium network but smart contarct account are only present for a specific network.
 

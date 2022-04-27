@@ -27,7 +27,7 @@ Transaction send to the network. It is sent to a node. The node has the entire c
 
 These are present in a block and validation of this block takes a lot of time. The transaction is not processed until the block is processed. This process is called mining.
 
-## Blocks
+### Blocks
 
 A block has a block number, nonce number, data and a hash. To store this block in a chain we have to mine it. Mining finds a number which is required for the new hash (having some target requirements eg. having 4 zeroes in front) it generates to be valid in the blockchain. Hash is a 64 bit number. This number is called the "Nonce" and it is a number that is incremented by one each time a transaction is sent to the network.
 
